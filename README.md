@@ -12,7 +12,7 @@
 
 #### References:
 
-[1]: 
+[1]: [Adiabatic Processes Paper](https://opentextbc.ca/universityphysicsv2openstax/chapter/adiabatic-processes-for-an-ideal-gas/)
 
 [2]:  
 
