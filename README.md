@@ -1,12 +1,10 @@
-## Project 1: Thermal Explosion in a Box   
-**Date:** July 11, 2022   
-**Group:** Tyler Reiser, Brian Tan, Mason Friedberg   
+Date Created: July 11, 2022  
 
 ---
 
->**Team!** My hand written notes and plan is stored as a PDF above. 
->
->Please make any corrections or changes you feel should be made--I don't want to watch the video again!
+## Project 1: Thermal Explosion in a Box    
+**Contributors:** Mason Friedberg, Brian Tan, Tyler Reiser     
+**Note:** All work in this repository is part of a group project by Mason Friedberg, Brian Tan, and Tyler Reiser and is licensed under the MIT license.
 
 --- 
 
@@ -16,4 +14,7 @@
 
 [2]:  
 
-...
+---
+
+#### Additional Resources
+[CU Boulder APPM4650 course website](https://spot.colorado.edu/~adam/4650_2022Sum/index.html)
