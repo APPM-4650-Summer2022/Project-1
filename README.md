@@ -1,8 +1,5 @@
-Date Created: July 11, 2022  
-
----
-
-## Project 1: Thermal Explosion in a Box    
+### Project 1: Thermal Explosion in a Box  
+**Date Created:** July 11, 2022    
 **Contributors:** Mason Friedberg, Brian Tan, Tyler Reiser     
 **Note:** All work in this repository is part of a group project by Mason Friedberg, Brian Tan, and Tyler Reiser and is licensed under the MIT license.
 
